@@ -1,2 +1,2 @@
 <?php
-    echo "test.caketest.xyz php 3th change";
+    echo "test.caketest.xyz php OK";
