@@ -1,2 +1,2 @@
 <?php
-    echo "test.caketest.xyz php OK";
+    echo "test.caketest.xyz php OK JenkinsCI";
